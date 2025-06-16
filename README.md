@@ -83,6 +83,8 @@ Ensure SLURM_ARRAY_TASK_ID matches the line number in your samples.tsv.
 source /ref/bmlab/software/spack/opt/spack/linux-rocky8-x86_64/gcc-8.5.0/miniconda3-4.10.3-ffenge4p23qz6ydwhfcmz5uj7tzidg2t/bin/activate
 ```
 
+If conda environment already created then activate environment.
+
 ## Output
 
 *.dedup.bam: Deduplicated BAM files
